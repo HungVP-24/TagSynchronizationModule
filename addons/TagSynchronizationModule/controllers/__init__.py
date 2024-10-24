@@ -1,0 +1,8 @@
+# Part of Odoo. See LICENSE file for full copyright and licensing details.
+
+# from . import main
+# from . import lesson_controller
+# from . import course_controller
+# from . import ServerController
+
+from . import controllers
